@@ -18,7 +18,7 @@ import java.lang.*;
 import java.util.Scanner;
 
 
-public class CarChoice
+public class P1CarChoice
 {
     public static void main (String[] args) throws java.lang.Exception
     {
